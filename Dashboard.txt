@@ -1,0 +1,63 @@
+
+
+Dashboard: 
+📊 1. Sales & Orders Overview
+📈 Chart	🧾 Required Columns
+Total Sales Over Time (line)	Order date, Sales
+Order Volume Over Time	Order date, Order Item Id
+Sales by Product Category	Category Name, Sales
+Top-Selling Products	Product Name, Sales or Order Item Quantity
+Sales by Region	Order Region, Sales
+Sales by Customer City	Customer City, Sales
+Top Discounted Products	Product Name, Order Item Discount or Discount Rate
+Sales by Shipping Mode	Shipping Mode, Sales
+
+🚚 2. Shipping & Delivery Performance
+📈 Chart	🧾 Required Columns
+Average Shipping Time (Actual vs Scheduled)	Days for shipping (real), Days for shipment (scheduled)
+Delivery Status Breakdown	Delivery Status, count of Order Item Id
+Late Delivery Risk % by Shipping Mode	Shipping Mode, Late_delivery_risk
+Late Delivery Trend Over Time	Order date, Late_delivery_risk
+Average Shipping Time by Region	Order Region, Days for shipping (real)
+
+📦 3. Product Insights
+📈 Chart	🧾 Required Columns
+Product Price vs Quantity Sold	Product Price, Order Item Quantity
+Sales by Product Card Id	Product Card Id, Sales
+Sales by Product Category	Category Name, Sales
+Average Discount by Category	Category Name, Order Item Discount Rate
+Product Count by Type	Type, count of Product Name
+
+🏙️ 4. Customer & Location Insights
+📈 Chart	🧾 Required Columns
+Orders by Region	Order Region, count of Order Item Id
+Sales by City	Customer City, Sales
+Orders by Customer City	Customer City, count of Order Item Id
+Sales Heatmap (Region × Category)	Order Region, Category Name, Sales
+
+⏰ 5. Time-Based Trends
+📈 Chart	🧾 Required Columns
+Monthly Sales Trend	Order date, Sales
+Shipping Delay Trend Over Time	Order date, Days for shipping (real) - Days for shipment (scheduled)
+Orders by Day of Week	Order date, Order Item Id
+
+🛠️ 6. Dashboard Controls (Filters/Slicers)
+🔧 Control	🧾 Columns to Filter
+Date Range Picker	Order date
+Category Selector	Category Name
+Region Selector	Order Region
+Delivery Status Filter	Delivery Status
+Shipping Mode Filter	Shipping Mode
+
+🔄 Optional KPIs (Dashboard Cards)
+Use these as key metrics at the top:
+
+Total Sales → Sum of Sales
+
+Total Orders → Count of Order Item Id
+
+Average Shipping Delay → Avg(Real) - Avg(Scheduled)
+
+% Late Deliveries → Count where Late_delivery_risk == 1
+
+Top Region by Sales → Order Region with max Sales

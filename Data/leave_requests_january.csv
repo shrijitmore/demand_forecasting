@@ -1,0 +1,5 @@
+﻿Operator_ID,From_Date,To_Date,Reason
+OP001,2018-01-02,2018-01-04,Medical Leave
+OP002,2018-01-04,2018-01-04,Medical Leave
+OP003,2018-01-05,2018-01-06,Emergency
+OP004,2018-01-18,2018-01-19,Medical Leave

@@ -1,0 +1,20 @@
+﻿SKU_No,Supplier_Name,Email,Lead_Time_Days,OTD_Percentage,Quality_Score,Fulfillment_Rate,Total_Orders,Late_Deliveries,Avg_Late_Per_Order
+SK0010,Alpha Components,alpha@suppliers.com,7,96.50%,9.2,98.70%,145,5,1.4
+SK0011,Beta Industries,beta@suppliers.com,7,92.10%,8.5,95.00%,132,10,2.1
+SK0012,Gamma Supplies,gamma@suppliers.com,7,94.30%,8.9,97.50%,121,7,1.7
+SK0013,Delta Motors,delta@suppliers.com,7,97.00%,9.5,99.20%,160,4,1.1
+SK0014,Epsilon Systems,epsilon@suppliers.com,7,91.80%,8.3,94.80%,117,11,2.4
+SK0015,Zeta Engineers,zeta@suppliers.com,7,93.20%,8.7,96.10%,125,8,1.9
+SK0016,Eta Mech,eta@suppliers.com,7,95.50%,9.1,97.90%,139,6,1.5
+SK0017,Theta Corp,theta@suppliers.com,7,89.60%,8.1,93.20%,110,13,2.7
+SK0018,Iota Machines,iota@suppliers.com,7,96.80%,9.3,98.40%,152,5,1.3
+SK0019,Kappa Components,kappa@suppliers.com,7,90.50%,8.2,94.50%,108,12,2.6
+SK0020,Lambda Tools,lambda@suppliers.com,7,94.00%,8.8,96.80%,130,8,1.8
+SK0021,Mu Hardware,mu@suppliers.com,7,95.20%,9,97.60%,143,6,1.4
+SK0023,Nu Automation,nu@suppliers.com,7,91.30%,8.4,94.20%,115,11,2.5
+SK0024,Xi Robotics,xi@suppliers.com,7,93.90%,8.6,96.00%,127,9,2
+SK0026,Omicron Systems,omicron@suppliers.com,7,94.70%,9.1,97.00%,134,7,1.6
+SK0027,Pi Mech,pi@suppliers.com,7,92.80%,8.5,95.40%,119,9,2.1
+SK0028,Rho Hardware,rho@suppliers.com,7,90.20%,8,93.70%,112,13,2.9
+SK0029,Sigma Corp,sigma@suppliers.com,7,96.00%,9.2,98.00%,149,6,1.4
+SK0030,Tau Machines,tau@suppliers.com,7,93.50%,8.7,96.50%,128,8,1.9

@@ -1,0 +1,20 @@
+﻿Supplier_ID,SKU_ID,Supplier_Name,Avg_Lead_Time_Days,OTD_Percentage,Quality_Score,Fulfillment_Rate,Contact_Person,Email,Phone,Location
+SUP101,SK0010,Dube-Raju,2,91.21,90.52,95.81,Pari Varma,bhattiaayush@cherian.org,5511851982,Indore
+SUP102,SK0011,Sundaram-Keer,3,91.91,86.65,92.37,Divit Khatri,miraan99@krish.com,5581874201,Guwahati
+SUP103,SK0012,Majumdar Inc,4,98.43,94.51,94.1,Jayant Mandal,kabirkumar@yahoo.com,9363572870,Bulandshahr
+SUP104,SK0013,Yogi LLC,2,94.21,82.7,98.67,Nitara Chand,jivinbatra@hotmail.com,710231603,Karaikudi
+SUP105,SK0014,Divan Mandal and Rajagopalan,7,94.13,80.91,92.03,Jivin Suresh,kimaya84@hotmail.com,9395088214,Sangli-Miraj & Kupwad
+SUP106,SK0015,Rajan Kalla and Sahni,3,97.24,89.03,92.81,Purab Ramanathan,kanav79@hotmail.com,2999833229,Adoni
+SUP107,SK0016,Sura and Sons,2,92.89,86.39,97.93,Alisha Singh,dsaraf@yahoo.com,7197789444,Mysore
+SUP108,SK0017,Lal Bobal and Thaman,4,96.55,81.47,92.49,Seher Kale,anahita96@srinivasan.com,6078520124,Naihati
+SUP109,SK0018,Kuruvilla-Yohannan,4,97.16,94.28,91.61,Tanya Mall,jayesh94@yahoo.com,917462000000,Buxar
+SUP110,SK0019,Ray Kade and Dhar,5,91.77,83.68,95.68,Ela Seth,gverma@hotmail.com,774620254,Kollam
+SUP111,SK0020,Aggarwal Setty and Sastry,3,93.23,86.55,96.77,Riya Dada,dyalmyra@yahoo.com,1797512627,Ambala
+SUP112,SK0021,Thakkar-Sarkar,5,98.15,81,95.61,Baiju Dubey,alishakhosla@apte.com,919153000000,Bardhaman
+SUP113,SK0023,De-Bhatnagar,6,94.67,91.12,98.32,Nitya Chanda,ravelabram@chada-jha.com,911549000000,Rourkela
+SUP114,SK0024,Mangal-Dani,5,92.17,86.92,95.06,Anahi Sandal,djha@banerjee.com,916436000000,Raebareli
+SUP115,SK0026,Walla Inc,2,92.77,91.49,92.02,Hansh Mani,azadbawa@choudhary-cherian.com,3619391563,Bathinda
+SUP116,SK0027,Shanker Kulkarni and Sarin,4,97.48,82.3,97.95,Jayant Sankaran,uthkarshbedi@vig-sunder.com,3923615598,Phusro
+SUP117,SK0028,Thakkar-Wali,4,97.17,88.19,91.15,Yuvaan Tailor,sahil30@gmail.com,6411271237,Ramagundam
+SUP118,SK0029,Varghese Lall and Bakshi,7,93.77,87.33,96.87,Gatik Koshy,aaina94@gmail.com,5341886549,Ahmednagar
+SUP119,SK0030,Bansal-Batta,6,93.21,87.52,92.31,Vivaan Srivastava,kalladrishya@gmail.com,912097000000,Tiruppur

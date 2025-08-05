@@ -1,0 +1,46 @@
+﻿PRODUCT_CARD_ID,SKU_No,SKU_Name,Station,Quantity,Total_Quantity,Operator,Station
+M001,SK0010,Blue Stator with Terminal Box,Line 1 - Station 1,1,8,Bharat,Station 1
+M001,SK0013,Rotor Sub Assembly,Line 1 - Station 1,1,5,Bharat,Station 1
+M001,SK0014,M5 x 125 Tie Rod,Line 1 - Station 1,3,3,Bharat,Station 1
+M001,SK0015,End Plate,Line 1 - Station 2,1,3,Akash,Station 2
+M001,SK0016,Cooling Fan,Line 1 - Station 2,1,3,Akash,Station 2
+M001,SK0018,White Fan Cover,Line 1 - Station 2,1,3,Akash,Station 2
+M001,SK0020,Cotter Pin,Line 1 - Station 2,1,3,Akash,Station 2
+M001,SK0021,Nuts,Line 1 - Station 2,3,3,Akash,Station 2
+M001,SK0023,Pump Impeller - 60 dia x 7 mm,Line 1 - Station 3,1,2,Jayraj,Station 3
+M001,SK0024,M5 x 40 Hex. bolt,Line 1 - Station 3,3,2,Jayraj,Station 3
+M001,SK0026,Volute Casing,Line 2 - Station 1,1,4,Jayraj,Station 3
+M001,SK0027,Delivery Flange + Washer,Line 2 - Station 1,1,2,Ahmed,Station 4
+M001,SK0028,Suction Flange + Non-return Valve,Line 2 - Station 1,1,2,Ahmed,Station 4
+M001,SK0029,M6 x 20 Hex. bolt,Line 2 - Station 1,2,2,Ahmed,Station 4
+M001,SK0030,M6 x 25 Hex. bolt,Line 2 - Station 1,2,2,Ahmed,Station 4
+M002,SK0011,Green Stator with Terminal Box,Line 1 - Station 1,1,8,Bharat,Station 1
+M002,SK0013,Rotor Sub Assembly,Line 1 - Station 1,1,5,Bharat,Station 1
+M002,SK0014,M5 x 125 Tie Rod,Line 1 - Station 1,3,3,Bharat,Station 1
+M002,SK0015,End Plate,Line 1 - Station 2,1,3,Akash,Station 2
+M002,SK0016,Cooling Fan,Line 1 - Station 2,1,3,Akash,Station 2
+M002,SK0019,Yellow Fan Cover,Line 1 - Station 2,1,3,Akash,Station 2
+M002,SK0020,Cotter Pin,Line 1 - Station 2,1,3,Akash,Station 2
+M002,SK0021,Nuts,Line 1 - Station 2,3,3,Akash,Station 2
+M002,SK0023,Pump Impeller - 60 dia x 7 mm,Line 1 - Station 3,1,2,Jayraj,Station 3
+M002,SK0024,M5 x 40 Hex. bolt,Line 1 - Station 3,3,2,Jayraj,Station 3
+M002,SK0026,Volute Casing,Line 2 - Station 1,1,4,Jayraj,Station 3
+M002,SK0027,Delivery Flange + Washer,Line 2 - Station 1,1,2,Ahmed,Station 4
+M002,SK0028,Suction Flange + Non-return Valve,Line 2 - Station 1,1,2,Ahmed,Station 4
+M002,SK0029,M6 x 20 Hex. bolt,Line 2 - Station 1,2,2,Ahmed,Station 4
+M002,SK0030,M6 x 25 Hex. bolt,Line 2 - Station 1,2,2,Ahmed,Station 4
+M003,SK0012,Orange Stator with Terminal Box,Line 1 - Station 1,1,8,Bharat,Station 1
+M003,SK0013,Rotor Sub Assembly,Line 1 - Station 1,1,5,Bharat,Station 1
+M003,SK0014,M5 x 125 Tie Rod,Line 1 - Station 1,3,3,Bharat,Station 1
+M003,SK0015,End Plate,Line 1 - Station 2,1,3,Akash,Station 2
+M003,SK0016,Cooling Fan,Line 1 - Station 2,1,3,Akash,Station 2
+M003,SK0017,Grey Fan Cover,Line 1 - Station 2,1,3,Akash,Station 2
+M003,SK0020,Cotter Pin,Line 1 - Station 2,1,3,Akash,Station 2
+M003,SK0021,Nuts,Line 1 - Station 2,3,3,Akash,Station 2
+M003,SK0023,Pump Impeller - 60 dia x 7 mm,Line 1 - Station 3,1,2,Jayraj,Station 3
+M003,SK0024,M5 x 40 Hex. bolt,Line 1 - Station 3,3,2,Jayraj,Station 3
+M003,SK0026,Volute Casing,Line 2 - Station 1,1,4,Jayraj,Station 3
+M003,SK0027,Delivery Flange + Washer,Line 2 - Station 1,1,2,Ahmed,Station 4
+M003,SK0028,Suction Flange + Non-return Valve,Line 2 - Station 1,1,2,Ahmed,Station 4
+M003,SK0029,M6 x 20 Hex. bolt,Line 2 - Station 1,2,2,Ahmed,Station 4
+M003,SK0030,M6 x 25 Hex. bolt,Line 2 - Station 1,2,2,Ahmed,Station 4

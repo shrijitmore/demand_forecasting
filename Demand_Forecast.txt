@@ -1,0 +1,16 @@
+1) Demand Forecast OutPut csv file: all_pump_forecasts.csv
+2) It contains: 3 pumps 
+   M001 - Blue Pump
+   M002 - Green Pump
+   M003 - Orange Pump
+3) There is Date column.
+4) 1 year of forecast (2017-2018)
+5) Graphs :
+   Daily, Weekly, Quarterly,Monthly
+   Annual daily demand in separate cards( BLue, Green, ORange)	
+6) Dropdown :
+   Product Name/ Product ID
+   Order Date
+7) AI insights section:
+   Monthwise Product insights- output csv
+

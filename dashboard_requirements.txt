@@ -1,0 +1,153 @@
+Dashboard API Requirements
+
+1. Sales & Orders Overview
+API: /api/sales/timeseries
+- Required Columns: Order date (DateOrders), Sales
+- Response: Array of { date: string, totalSales: number, orderCount: number }
+
+API: /api/sales/category
+- Required Columns: Category Name, Sales
+- Response: Array of { category: string, totalSales: number }
+
+API: /api/sales/top-products
+- Required Columns: Product Name, Sales, Order Item Quantity
+- Query Params: limit (default 10)
+- Response: Array of { product: string, totalSales: number, orderQuantity: number }
+
+API: /api/sales/region
+- Required Columns: Order Region, Sales
+- Response: Array of { region: string, totalSales: number }
+
+API: /api/sales/customer-city
+- Required Columns: Customer City, Sales
+- Response: Array of { city: string, totalSales: number }
+
+API: /api/sales/discounted-products
+- Required Columns: Product Name, Order Item Discount
+- Query Params: limit (default 10)
+- Response: Array of { product: string, totalDiscount: number, orderCount: number }
+
+API: /api/sales/shipping-mode
+- Required Columns: Shipping Mode, Sales
+- Response: Array of { mode: string, totalSales: number }
+
+2. Shipping & Delivery Performance
+API: /api/shipping/performance
+- Required Columns: Days for shipping (real), Days for shipment (scheduled)
+- Response: Array of { 
+    mode: string, 
+    totalActual: number, 
+    totalScheduled: number, 
+    lateCount: number, 
+    totalCount: number,
+    averageActual: number,
+    averageScheduled: number,
+    latePercentage: number 
+}
+
+API: /api/shipping/delivery-status
+- Required Columns: Delivery Status
+- Response: Array of { status: string, count: number }
+
+API: /api/shipping/late-delivery-risk
+- Required Columns: Shipping Mode, Late_delivery_risk
+- Response: Array of { mode: string, risk: number }
+
+API: /api/shipping/delay-trend
+- Required Columns: Order date (DateOrders), Late_delivery_risk
+- Response: Array of { 
+    month: string,
+    totalActual: number,
+    totalScheduled: number,
+    count: number,
+    averageDelay: number 
+}
+
+API: /api/shipping/region-performance
+- Required Columns: Order Region, Days for shipping (real)
+- Response: Array of { region: string, averageDays: number }
+
+3. Product Insights
+API: /api/products/price-vs-quantity
+- Required Columns: Product Price, Order Item Quantity
+- Response: Array of { 
+    product: string,
+    totalQuantity: number,
+    totalSales: number,
+    averagePrice: number 
+}
+
+API: /api/products/sales-by-category
+- Required Columns: Category Name, Sales
+- Response: Array of { category: string, totalSales: number }
+
+
+4. Customer & Location Insights
+API: /api/customers/orders-by-region
+- Required Columns: Order Region, Order Item Id
+- Response: Array of { region: string, orderCount: number }
+
+API: /api/customers/sales-by-city
+- Required Columns: Customer City, Sales
+- Response: Array of { city: string, totalSales: number }
+
+API: /api/customers/orders-by-city
+- Required Columns: Customer City, Order Item Id
+- Response: Array of { city: string, orderCount: number }
+
+API: /api/customers/sales-heatmap
+- Required Columns: Order Region, Category Name, Sales
+- Response: Array of { 
+    region: string,
+    category: string,
+    totalSales: number 
+}
+
+5. Time-Based Trends
+API: /api/trends/monthly-sales
+- Required Columns: Order date (DateOrders), Sales
+- Response: Array of { month: string, totalSales: number }
+
+API: /api/trends/shipping-delay
+- Required Columns: Order date (DateOrders), Days for shipping (real), Days for shipment (scheduled)
+- Response: Array of { 
+    month: string,
+    totalDelay: number,
+    count: number,
+    averageDelay: number 
+}
+
+API: /api/trends/orders-by-day
+- Required Columns: Order date (DateOrders), Order Item Id
+- Response: Array of { 
+    day: string,
+    orderCount: number 
+}
+
+6. KPIs
+API: /api/kpis
+- Response: {
+    totalSales: number,
+    totalOrders: number,
+    averageShippingDelay: number,
+    lateDeliveryPercentage: number,
+    topRegion: string
+}
+
+Common Query Parameters:
+- All endpoints should accept startDate and endDate
+- All endpoints should support filtering by Category Name
+- All endpoints should support filtering by Order Region
+- All endpoints should support filtering by Delivery Status
+- All endpoints should support filtering by Shipping Mode
+
+Data Types:
+- Order date (DateOrders): Date
+- Sales: Number
+- Order Item Quantity: Number
+- Order Item Discount: Number
+- Days for shipping (real): Number
+- Days for shipment (scheduled): Number
+- Late_delivery_risk: Number
+- Product Price: Number
+- Order Item Discount Rate: Number

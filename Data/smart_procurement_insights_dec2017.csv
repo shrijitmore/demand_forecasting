@@ -1,0 +1,115 @@
+﻿SKU_ID,SKU_Name,Procurement_Insight
+SK0010,Blue Stator with Terminal Box,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Low stock level (1000) vs. forecasted demand (1708), indicating a potential stockout risk.
+• ⏳ Reorder Risk: High, as the available stock (1000) is less than the forecasted demand (1708) and the in-transit quantity (20) is insufficient to cover the gap.
+• 🚚 Procurement Action: Expedite procurement from Alpha Components to avoid stockout, considering the 7-day lead time.
+• 🔄 Supplier Suggestion: Reach out to alpha@suppliers.com to confirm expedited delivery or explore alternative suppliers to mitigate the stockout risk."
+SK0011,Green Stator with Terminal Box,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical - Only 100 units in stock, with a forecasted demand of 1381 units.
+• ⏳ Reorder Risk: High - With a lead time of 7 days and only 10 units in transit, there is a high risk of stockout if not reordered promptly.
+• 🚚 Procurement Action: Expedite reorder with Beta Industries to avoid stockout, considering the high demand and low available stock.
+• 🔄 Supplier Suggestion: Reach out to beta@suppliers.com to negotiate an expedited delivery or explore alternative suppliers to mitigate the risk of stockout."
+SK0012,Orange Stator with Terminal Box,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critically Low (Available Stock: 90, Forecasted Monthly Demand: 1326)
+• ⏳ Reorder Risk: High (Available Stock + In Transit: 105, covers only 8% of Forecasted Monthly Demand)
+• 🚚 Procurement Action: Place an urgent order with Gamma Supplies to avoid stockout
+• 🔄 Supplier Suggestion: Consider expediting the order with Gamma Supplies to minimize the risk of stockout, and explore alternative suppliers to mitigate future risks"
+SK0013,Rotor Sub Assembly,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 100 units in stock, with a forecasted demand of 4416 units)
+• ⏳ Reorder Risk: High (available stock will not meet forecasted demand, and there's a risk of stockout)
+• 🚚 Procurement Action: Expedite order with Delta Motors to avoid stockout (consider air freight or expedited shipping to reduce lead time)
+• 🔄 Supplier Suggestion: Reach out to Delta Motors (delta@suppliers.com) to negotiate an expedited shipment or explore alternative suppliers to mitigate the risk of stockout"
+SK0014,M5 x 125 Tie Rod,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critically Low (300 units available, 13249 units demanded)
+• ⏳ Reorder Risk: High (only 300 units in stock, with a 7-day lead time)
+• 🚚 Procurement Action: Place an urgent order with Epsilon Systems to avoid stockout (consider expedited shipping if possible)
+• 🔄 Supplier Suggestion: Reach out to epsilon@suppliers.com to confirm lead time and expedited shipping options, and to discuss potential inventory buffer stocks to mitigate future stockouts"
+SK0015,End Plate,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 100 units in stock, with a forecasted demand of 4416 units)
+• ⏳ Reorder Risk: High (available stock will last less than a week, considering the lead time and in-transit quantities)
+• 🚚 Procurement Action: Expedite order with Zeta Engineers to avoid stockout (consider air freight or expedited shipping to reduce lead time)
+• 🔄 Supplier Suggestion: Reach out to zeta@suppliers.com to negotiate an expedited delivery or explore alternative suppliers to mitigate the risk of stockout"
+SK0016,Cooling Fan,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 100 units available, forecasted demand is 4416)
+• ⏳ Reorder Risk: High (available stock will deplete quickly, and in-transit stock is insufficient)
+• 🚚 Procurement Action: Place an urgent order with Eta Mech to avoid stockout (consider expedited shipping if possible)
+• 🔄 Supplier Suggestion: Reach out to eta@suppliers.com to negotiate a shorter lead time or expedited delivery to meet demand"
+SK0017,Grey Fan Cover,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical - Only 50 units in stock, with 1326 units demanded this month.
+• ⏳ Reorder Risk: High - Insufficient stock to meet demand, with a lead time of 7 days.
+• 🚚 Procurement Action: Expedite order to Theta Corp immediately to avoid stockout.
+• 🔄 Supplier Suggestion: Consider negotiating with Theta Corp to reduce lead time or increase shipment frequency to mitigate stockout risk."
+SK0018,White Fan Cover,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Low stock level (1000 available) against forecasted demand (1708), indicating a stockout risk.
+• ⏳ Reorder Risk: High, as the available stock will not meet the forecasted demand, and in-transit stock is minimal (10).
+• 🚚 Procurement Action: Place an urgent order with Iota Machines to avoid stockout, considering the 7-day lead time.
+• 🔄 Supplier Suggestion: Reach out to iota@suppliers.com to expedite the order and negotiate for a shorter lead time, if possible."
+SK0019,Yellow Fan Cover,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical - Only 65 units in stock, with a forecasted demand of 1381 units.
+• ⏳ Reorder Risk: High - The available stock will not meet the forecasted demand, and there's a risk of stockout.
+• 🚚 Procurement Action: Expedite order with Kappa Components to avoid stockout. Consider air freight to reduce lead time.
+• 🔄 Supplier Suggestion: Reach out to kappa@suppliers.com to negotiate an expedited delivery or explore alternative suppliers to mitigate the risk of stockout."
+SK0020,Cotter Pin,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 200 units in stock, with a forecasted demand of 4416 units)
+• ⏳ Reorder Risk: High (available stock will not meet demand, and in-transit stock is insufficient)
+• 🚚 Procurement Action: Place an urgent order with Lambda Tools to avoid stockout (consider expediting the shipment to minimize the lead time)
+• 🔄 Supplier Suggestion: Reach out to lambda@suppliers.com to negotiate an expedited delivery or explore alternative suppliers to mitigate the stockout risk"
+SK0021,Nuts,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 500 units in stock, with 13,249 units demanded this month)
+• ⏳ Reorder Risk: High (available stock will deplete quickly, and in-transit stock is insufficient to meet demand)
+• 🚚 Procurement Action: Expedite order from Mu Hardware to avoid stockout (consider air freight or expedited shipping to reduce lead time)
+• 🔄 Supplier Suggestion: Reach out to mu@suppliers.com to negotiate an expedited delivery or consider alternative suppliers to mitigate the risk of stockout"
+SK0023,Pump Impeller - 60 dia x 7 mm,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (available stock of 120 units is only 2.7% of forecasted demand)
+• ⏳ Reorder Risk: High (inventory lead time is 7 days, and in-transit stock is insufficient to meet demand)
+• 🚚 Procurement Action: Expedite order with Nu Automation to avoid stockout (consider air freight or express shipping to reduce lead time)
+• 🔄 Supplier Suggestion: Reach out to Nu Automation (nu@suppliers.com) to negotiate an expedited delivery or explore alternative suppliers to mitigate risk"
+SK0024,M5 x 40 Hex. bolt,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 300 units available, with 13,249 units demanded)
+• ⏳ Reorder Risk: High (available stock will not meet demand, and in-transit stock is insufficient)
+• 🚚 Procurement Action: Expedite reorder with primary supplier Xi Robotics to avoid stockout
+• 🔄 Supplier Suggestion: Reach out to xi@suppliers.com to negotiate an expedited delivery or consider alternative suppliers to mitigate risk"
+SK0026,Volute Casing,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 100 units in stock, with a forecasted demand of 4416 units)
+• ⏳ Reorder Risk: High (available stock will not meet demand, and in-transit stock is insufficient)
+• 🚚 Procurement Action: Place an urgent order with Omicron Systems to replenish stock, considering the 7-day lead time
+• 🔄 Supplier Suggestion: Reach out to omicron@suppliers.com to expedite the order and discuss possible express shipping options to mitigate the stock shortage"
+SK0027,Delivery Flange + Washer,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical - Only 100 units in stock, with a forecasted demand of 4416 units, leaving a significant stock shortfall.
+• ⏳ Reorder Risk: High - The available stock will deplete quickly, and the in-transit quantity is insufficient to meet demand, posing a high risk of stockout.
+• 🚚 Procurement Action: Expedite order with Primary Supplier Pi Mech to avoid stockout, considering the 7-day lead time.
+• 🔄 Supplier Suggestion: Reach out to pi@suppliers.com to negotiate an expedited delivery or consider alternative suppliers to mitigate the stockout risk."
+SK0028,Suction Flange + Non-return Valve,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical (only 100 units available, with 4416 units demanded)
+• ⏳ Reorder Risk: High (current stock will not meet demand, and lead time is 7 days)
+• 🚚 Procurement Action: Place an urgent order with Rho Hardware to avoid stockout (calculate order quantity based on forecasted demand and lead time)
+• 🔄 Supplier Suggestion: Consider negotiating with Rho Hardware to expedite delivery or explore alternative suppliers to mitigate the risk of stockout"
+SK0029,M6 x 20 Hex. bolt,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical - Only 400 units in stock, with a forecasted demand of 8832 units.
+• ⏳ Reorder Risk: High - Insufficient stock to meet demand, and in-transit stock is not enough to cover the shortfall.
+• 🚚 Procurement Action: Expedite an order with Sigma Corp to avoid stockout, considering their 7-day lead time.
+• 🔄 Supplier Suggestion: Reach out to sigma@suppliers.com to negotiate an expedited delivery or consider alternative suppliers to mitigate the risk of stockout."
+SK0030,M6 x 25 Hex. bolt,"Here are the monthly procurement insights for December 2017:
+
+• 📦 Stock Status: Critical - Available stock (450) is significantly lower than forecasted demand (8832), leaving a large stock gap.
+• ⏳ Reorder Risk: High - The available stock will not last long, and the in-transit quantity (70) is insufficient to meet demand, increasing the risk of stockouts.
+• 🚚 Procurement Action: Expedite order with Tau Machines as soon as possible to avoid stockouts, considering the 7-day lead time.
+• 🔄 Supplier Suggestion: Reach out to tau@suppliers.com to negotiate an expedited delivery or consider alternative suppliers to mitigate the stock risk."

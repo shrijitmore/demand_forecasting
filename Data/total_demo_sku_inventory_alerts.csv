@@ -1,0 +1,20 @@
+﻿SKU_No,Avg_Daily_Demand,Std_Dev,Lead_Time,Safety_Stock,Reorder_Point,Available,Supplier,Email
+SK0010,79.74,2.82,7,12,570,74,Alpha Components,alpha@suppliers.com
+SK0011,62.71,2.87,7,13,451,49,Beta Industries,beta@suppliers.com
+SK0012,55.24,3.19,7,14,401,45,Gamma Supplies,gamma@suppliers.com
+SK0013,197.51,5.65,7,25,1407,28,Delta Motors,delta@suppliers.com
+SK0014,592.51,16.98,7,74,4222,88,Epsilon Systems,epsilon@suppliers.com
+SK0015,197.51,5.65,7,25,1407,33,Zeta Engineers,zeta@suppliers.com
+SK0016,197.51,5.65,7,25,1407,38,Eta Mech,eta@suppliers.com
+SK0017,55.24,3.19,7,14,401,5,Theta Corp,theta@suppliers.com
+SK0018,79.74,2.82,7,12,570,64,Iota Machines,iota@suppliers.com
+SK0019,62.71,2.87,7,13,451,14,Kappa Components,kappa@suppliers.com
+SK0020,197.51,5.65,7,25,1407,73,Lambda Tools,lambda@suppliers.com
+SK0021,592.51,16.98,7,74,4222,128,Mu Hardware,mu@suppliers.com
+SK0023,197.51,5.65,7,25,1407,63,Nu Automation,nu@suppliers.com
+SK0024,592.51,16.98,7,74,4222,118,Xi Robotics,xi@suppliers.com
+SK0026,197.51,5.65,7,25,1407,33,Omicron Systems,omicron@suppliers.com
+SK0027,197.51,5.65,7,25,1407,38,Pi Mech,pi@suppliers.com
+SK0028,197.51,5.65,7,25,1407,33,Rho Hardware,rho@suppliers.com
+SK0029,395.02,11.32,7,49,2815,145,Sigma Corp,sigma@suppliers.com
+SK0030,395.02,11.32,7,49,2815,83,Tau Machines,tau@suppliers.com
